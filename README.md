@@ -28,43 +28,6 @@ My main experience is centered around Python ecosystems, modern frontend develop
 - 🔭 Working with backend, frontend, and infrastructure
 - ⚙️ Focused on APIs, automation, and scalable systems
 - 🐳 Interested in Docker, Linux environments, and DevOps practices
-- 📚 Always improving development processes, architecture, and code quality
-
----
-
-## 🚀 Main Stack
-
-### Backend
-- Python
-- FastAPI
-
-### Frontend
-- React
-- Next.js
-- JavaScript
-- TypeScript
-
-### DevOps & Tools
-- Docker
-- Linux
-- Git
-- Portainer
-
-### Interests
-- API design
-- System architecture
-- Automation
-- Deployment workflows
-- Project organization
-- Continuous improvement
-
----
-
-## 🧠 Professional Summary
-
-I enjoy creating systems that are not only functional, but also organized, maintainable, and ready to grow.
-
-My work involves combining backend development, frontend integration, and infrastructure tooling to deliver complete solutions — from business rules and APIs to interfaces, containers, and deployment routines.
 
 ---
 
@@ -76,7 +39,6 @@ My work involves combining backend development, frontend integration, and infras
 ---
 
 ## 💼 Experience
-
 - Developer / Technology professional at **Transportadora Jolivan Ltda**
 
 ---
