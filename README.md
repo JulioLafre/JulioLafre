@@ -68,8 +68,3 @@ My main experience is centered around Python ecosystems, modern frontend develop
 </p>
 
 ---
-
-## 📫 Contact
-
-- LinkedIn: [julio-laiber-a06353126](https://www.linkedin.com/in/julio-laiber-a06353126/)
-- Email: [juliolafre@gmail.com](mailto:juliolafre@gmail.com)
