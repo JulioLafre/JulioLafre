@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   <strong>Backend Developer | Python & FastAPI | React & Next.js | Docker & DevOps</strong>
-</h1>
+</h3>
 
 <p align="center">
   Building APIs, web interfaces, and scalable solutions with a focus on organization, performance, and automation.
