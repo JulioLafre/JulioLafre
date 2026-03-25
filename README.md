@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Júlio Laiber 👋</h1>
-
 <h3 align="center">
   Backend Developer | Python & FastAPI | React & Next.js | Docker & DevOps
 </h3>
