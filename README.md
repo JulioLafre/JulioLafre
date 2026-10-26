@@ -54,6 +54,7 @@ My main experience is centered around Python ecosystems, modern frontend develop
   <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Portainer-111?style=for-the-badge&logo=portainer" />
+  <img src="https://img.shields.io/badge/React_Native-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
